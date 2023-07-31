@@ -6,14 +6,11 @@
 ### <div align="center">I'm Adrián, a full-stack developer focused on Javascript. Working remotely since 2019 🦄</div>  
   
 
-- 🏭 I’m currently working on a frontend team, with Stencil, Ionic, and Typescript.  
+- 🏭 I’m currently working on a frontend team, with Stencil, Remix, Ionic, and Typescript.  
   
 
 - 🙏 I prefer to work on backend.  
-  
-
-- 💗 Right now I code all my side projects with Deno and Typescript, moving from Node and Javascript, but I love both.  
-  
+    
 
 - 🌈 I work from home, fully remotely, which is VERY important for me.  
   
